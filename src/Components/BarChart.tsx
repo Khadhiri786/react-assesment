@@ -19,7 +19,7 @@ const BarChart: React.FC<BarChartProps> = ({ data }) => {
     },
     yAxis: {
       title: {
-        text: "Smartphones",
+        text: "Stocks",
       },
     },
     series: [
